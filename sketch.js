@@ -28,6 +28,8 @@ if ((y > height) || (y < 0)) {
 
 //display circle at x location
 stroke(0)
-strokeWeight(2);
+strokeWeight(2); 
 fill(127);
 elllipse(x, y, 48, 48);
+
+
